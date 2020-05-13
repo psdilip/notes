@@ -1,0 +1,14 @@
+# Shared security Model
+- What does AWS Control and What do you control?
+- When you are using the Cloud to host applications for customers, you as the customer and the cloud provider should be each responsible for certain actions
+- AWS is responsible of the cloud
+    - Anything physical hardware
+    - Datacenters
+    - DDos protection
+    - Regions, Availability Zones, and Edge Locations
+- You as a customer is responsible of whats in the cloud
+    - Security
+    - Customer Data
+    - Data in transit and at rest
+    - OS level patching
+    - More

@@ -1,0 +1,26 @@
+# Project information
+site_name: "Sai's Notes"
+site_description: 'A collection of notes and code snippets.'
+site_author: 'Sai Dilip'
+site_url: 'http://psdilip.github.io/notes/'
+
+# Repository
+repo_name: 'psdilip/notes'
+repo_url: 'https://github.com/psdilip/notes'
+edit_uri: edit/master/docs_src/
+
+# Copyright
+copyright: 'Copyright &copy; 2020 Sai Dilip Ponnaganti'
+
+theme:
+ features: 
+  - instant
+ name: material  
+ palette:
+   primary: 'cyna'
+   accent: 'orange'
+ font:
+   text: 'Roboto'
+   code: 'Roboto Mono'
+
+      
